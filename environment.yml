@@ -31,6 +31,8 @@ dependencies:
   - rdkit=2020.09.1.0 # Molecule
   - dgl=0.7.0 # DGL
 
+  - pip
+  
   - pip:
     - gym==0.18.0 # RL
     - tensorboardx==2.2 # TSP
